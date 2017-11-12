@@ -1,0 +1,9 @@
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\bin\Debug\IpBulucu.exe.config
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.csprojResolveAssemblyReference.cache
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.Form1.resources
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.Properties.Resources.resources
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.csproj.GenerateResource.Cache
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\bin\Debug\IpBulucu.exe
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\bin\Debug\IpBulucu.pdb
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.exe
+c:\users\bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.pdb

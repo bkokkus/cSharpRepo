@@ -1,0 +1,19 @@
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\bin\Debug\IpBulucu.exe.config
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\bin\Debug\IpBulucu.exe
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\bin\Debug\IpBulucu.pdb
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.Form1.resources
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.Properties.Resources.resources
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IPScanner.csproj.GenerateResource.Cache
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.exe
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IpBulucu.pdb
+C:\Users\Bhan\documents\visual studio 2013\Projects\IpBulucu\IpBulucu\obj\Debug\IPScanner.csprojResolveAssemblyReference.cache
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\bin\Debug\IpBulucu.exe.config
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IpBulucu.exe
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IpBulucu.pdb
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\bin\Debug\IpBulucu.exe
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\bin\Debug\IpBulucu.pdb
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IPScanner.csprojResolveAssemblyReference.cache
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IpBulucu.Form1.resources
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IpBulucu.hakkinda.resources
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IpBulucu.Properties.Resources.resources
+C:\Users\bhan\Documents\GitHub\CsRepo\IpBulucuUltimate\IpBulucu\obj\Debug\IPScanner.csproj.GenerateResource.Cache
