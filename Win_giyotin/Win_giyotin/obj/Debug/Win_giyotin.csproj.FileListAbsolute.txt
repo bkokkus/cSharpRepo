@@ -1,0 +1,9 @@
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\bin\Debug\Win_giyotin.exe.config
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\bin\Debug\Win_giyotin.exe
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\bin\Debug\Win_giyotin.pdb
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\obj\Debug\Win_giyotin.csprojResolveAssemblyReference.cache
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\obj\Debug\Win_giyotin.Form1.resources
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\obj\Debug\Win_giyotin.Properties.Resources.resources
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\obj\Debug\Win_giyotin.csproj.GenerateResource.Cache
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\obj\Debug\Win_giyotin.exe
+c:\users\bhan\documents\visual studio 2013\Projects\Win_giyotin\Win_giyotin\obj\Debug\Win_giyotin.pdb
